@@ -21,3 +21,6 @@ $ python -m pip install -r requirements.txt
 
 ## Author
 Muhammad Mursalin Darmamawan / [@Alin](https://www.instagram.com/muhmursalind)
+
+## Author Linepy
+Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
