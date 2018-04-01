@@ -10,10 +10,6 @@ Installation is simple. It can be installed from pip using the following command
 ```sh
 $ python -m pip install -r requirements.txt
 ```
-Or from the code:
-```sh
-$ python setup.py install
-```
 
 ## Usage
 
@@ -22,3 +18,6 @@ $ python setup.py install
 >>> client = LINE("")
 >>> client.log("Auth Token : " + str(line.authToken))
 ```
+
+## Author
+Muhammad Mursalin Darmamawan / [@Alin](https://www.instagram.com/muhmursalind)
