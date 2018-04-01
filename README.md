@@ -18,7 +18,7 @@ $ python setup.py install
 ## Usage
 
 ```python
->>> from linepy import *
->>> line = LINE("")
->>> line.log("Auth Token : " + str(line.authToken))
+>>> from LineAPI.linepy import *
+>>> client = LINE("")
+>>> client.log("Auth Token : " + str(line.authToken))
 ```
